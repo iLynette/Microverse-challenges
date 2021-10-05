@@ -1,0 +1,11 @@
+#img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#img-div img {
+    width: 30vw;
+    max-width: 100%;
+}
